@@ -60,5 +60,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 //    }
     //todo DAOAuthenticationProvider(3 ВАРИАНТ)
 
+    //<a href = 'https://youtu.be/HvovW6Uh1yU?t=3751'>
+
 
 }
